@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Texto
-=======
-Texto real
->>>>>>> prueba
+TEXTO DE EJEMPLO
