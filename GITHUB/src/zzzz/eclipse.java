@@ -3,7 +3,7 @@ package zzzz;
 public class eclipse {
 
 	public static void main(String[] args) {
-		System.out.println("Hola desde eclipse");
+		System.out.println("Hola desde visual");
 	}
 
 }
